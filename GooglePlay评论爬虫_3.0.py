@@ -116,3 +116,5 @@ df.columns = ['Name','Date','Stars','Comments','Likes']
 df.index = df.index+1
 df['Likes'][df['Likes']=='']=0
 df[['Stars','Likes']] = df[['Stars','Likes']].astype('int')
+
+# df.to_csv('/Users/gaosteven/Desktop/Genshin_GooglePlay.csv')
