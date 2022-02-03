@@ -7,4 +7,4 @@
 
 4.重点问题：解决了Google PLay下拉网页加载到一定数量的评论后会从第41条评论开始重新加载新的评论造成先前加载内容丢失的问题
 
-4.备注：经测试使用Jupyter Notebook进行爬取会有评论丢失现象，推荐使用pytorch等IDE运行代码
+4.备注：经测试使用Jupyter Notebook进行爬取会有评论丢失现象，推荐使用pycharm等IDE运行代码
